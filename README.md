@@ -11,6 +11,7 @@ The goal of this project was to design an AI capable of playing Super Mario Land
 ## Built With
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## Getting Started
 
@@ -18,19 +19,19 @@ The goal of this project was to design an AI capable of playing Super Mario Land
 
 ```markdown
 Super-Mario-Land-QLearning/
-├── 📁 src/                       # Source code for AI and game logic
-│   ├── 📁 qLearning/             # Q-learning implementation
-│   ├── 📄 constants.py           # Project constants and settings
-│   ├── 📄 database.py            # Database for storing training data
-│   ├── 📄 main_random_inputs.py  # Run AI with random inputs
-│   ├── 📄 main_run_qlearning.py  # Run AI using Q-learning
-│   ├── 📄 main_stats_qlearning.py# Generate statistics from Q-learning runs
-│   └── 📄 main_train_qlearning.py# Train the Q-learning agent
-├── 📄 requirements.txt           # Python dependencies
-├── 📄 sml.gb                      # Super Mario Land game ROM
-├── 📄 marioooooo.mp4             # Demo video of the AI playing
-├── 📄 ARTICLE_SUPER_MARIO.pdf    # Project report
-└── 📄 LICENSE                    # MIT License
+├── 📁 src/                         # Source code for AI and game logic
+│   ├── 📁 qLearning/               # Q-learning implementation
+│   ├── 📄 constants.py             # Project constants and settings
+│   ├── 📄 database.py              # Database for storing training data
+│   ├── 📄 main_random_inputs.py    # Run AI with random inputs
+│   ├── 📄 main_run_qlearning.py    # Run AI using Q-learning
+│   ├── 📄 main_stats_qlearning.py  # Generate statistics from Q-learning runs
+│   └── 📄 main_train_qlearning.py  # Train the Q-learning agent
+├── 📄 requirements.txt             # Python dependencies
+├── 📄 sml.gb                       # Super Mario Land game ROM
+├── 📄 marioooooo.mp4               # Demo video of the AI playing
+├── 📄 ARTICLE_SUPER_MARIO.pdf      # Project report
+└── 📄 LICENSE                      # MIT License
 ```
 
 ### Prerequisites
