@@ -1,8 +1,8 @@
-# Super-Mario-Land-QLearning
-
-<video src="marioooooo.mp4" controls width="600"></video>
-
-**Super-Mario-Land-QLearning** is a university project in which we created an AI to play **Super Mario Land** using reinforcement learning techniques.
+<div align="center">
+  <h1 align="center">Super Mario Land QLearning</h1>
+  <img src="mario-ai.gif" alt="Video of the AI playing Super Mario Land" width="600">  <p align="center">
+  Super Mario Land, where Mario is controlled by an AI.
+</div>
 
 ## About The Project
 
